@@ -64,3 +64,21 @@ Please raise an issue if you need help, any contributions are welcomed.
 
 # Citation
 If you use this dataset for your research or paper, please cite our paper
+
+@inproceedings{10.1145/3701716.3718386,
+author = {Jin, Kairui and Zi, Xing and Thiyagarajan, Karthick and Braytee, Ali and Prasad, Mukesh},
+title = {IP-VQA Dataset: Empowering Precision Agriculture with Autonomous Insect Pest Management through Visual Question Answering},
+year = {2025},
+isbn = {9798400713316},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3701716.3718386},
+doi = {10.1145/3701716.3718386},
+abstract = {Precision agriculture is essential for social good, global economy and food security, yet insect pests threaten productivity through crop damage, pathogen spread, and rising pest control costs. The overuse of pesticides leads to environmental issues and pesticide resistance. Advanced technologies like Visual Question Answering (VQA) provide solutions by integrating image processing with natural language understanding, facilitating efficient pest detection and crop health monitoring. While datasets like IP102 have enhanced pest recognition, they lack necessary question-answer pairs for VQA tasks in agriculture. To address this gap, we introduce the Insect Pest Visual Question Answering (IP-VQA) dataset, designed specifically for precision agricultural applications. This dataset includes a diverse collection of high-quality images annotated with detailed question-answer pairs related to crop health, pest identification, and agricultural practices. Our thorough data collection ensures reliability and relevance. We also utilize advanced multimodal large language models to set a benchmark for the dataset. The primary contribution of the IP-VQA dataset lies in its comprehensive coverage and VQA integration within agricultural contexts. By providing rich visual and textual information, it connects VQA techniques to practical agricultural needs, supporting ongoing research and paving the way for future studies in precision agriculture.},
+booktitle = {Companion Proceedings of the ACM on Web Conference 2025},
+pages = {2000–2007},
+numpages = {8},
+keywords = {autonomous system., inspect pest management, ip-vqa dataset, precision agriculture, visual question answering},
+location = {Sydney NSW, Australia},
+series = {WWW '25}
+}
