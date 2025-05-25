@@ -64,7 +64,7 @@ Please raise an issue if you need help, any contributions are welcomed.
 
 # Citation
 If you use this dataset for your research or paper, please cite our paper
-
+```bibtex
 @inproceedings{10.1145/3701716.3718386,
 author = {Jin, Kairui and Zi, Xing and Thiyagarajan, Karthick and Braytee, Ali and Prasad, Mukesh},
 title = {IP-VQA Dataset: Empowering Precision Agriculture with Autonomous Insect Pest Management through Visual Question Answering},
